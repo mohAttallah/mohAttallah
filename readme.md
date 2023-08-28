@@ -1,4 +1,4 @@
-<h2 align="left">Hey y'all! 👋</h2>
+<h2 align="Center">Hey y'all! 👋</h2>
 <h5 align="left"> Full Stack Developer from Jordan</h3>
 
 - 🔭 I’m currently working on [Pixle Time](https://github.com/PhotographyPlatform/back-end)
