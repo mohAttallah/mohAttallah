@@ -1,5 +1,5 @@
 <h2 align="Center">Hey y'all! 👋</h2>
-<h5 align="left"> Full Stack Developer from Jordan</h3>
+<h5 align="left"> Web Developer </h3>
 
 - 🔭 I’m currently working on [Pixle Time](https://github.com/PhotographyPlatform/back-end)
 
