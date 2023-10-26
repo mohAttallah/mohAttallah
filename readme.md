@@ -1,5 +1,10 @@
 <h2 align="Center">Hey y'all! 👋</h2>
-<h5 align="left"> Web Developer </h3>
+<!-- <h5 align="left"> Web Developer </h3>
+ -->
+
+<p align="center">
+<img src="https://awesome-github-stats.azurewebsites.net/user-stats/mohAttallah?cardType=github&theme=dracula&preferLogin=true">
+</p>
 
 - 🔭 I’m currently working on [Pixle Time](https://github.com/PhotographyPlatform/back-end)
 
