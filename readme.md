@@ -19,14 +19,18 @@
   <a href="https://www.linkedin.com/in/mohammad-mohmoud-attallah/" target="blank">
     <img src="https://img.shields.io/twitter/follow/mohAttallah?logo=linkedin&style=for-the-badge" alt="mohAttallah" />
   </a>
-<a href="mohammad.attallah1@outlook.com" target="blank">
-    <img src="https://img.shields.io/badge/mohammad.attallah1@outlook.com-Contact%20Me-white?style=for-the-badge" alt="Email" />
-    
-  </a>
+
 
 </p>
 
 
+
+<p align="center" style="display: inline; margin: 0;">
+  <a href="mohammad.attallah1@outlook.com" target="blank">
+    <img src="https://img.shields.io/badge/mohammad.attallah1@outlook.com-Contact%20Me-white?style=for-the-badge" alt="Email" />
+    
+  </a>
+</p>
 
 <p align="left">
 <p align="center">
