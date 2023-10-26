@@ -1,17 +1,17 @@
 <h2 align="Center">Hey y'all! 👋</h2>
-<h5 align="Center"> Web Developer </h3>
+<h3 align="Center"> Web Developer </h3>
 
 
 
-<p align="center" style="display: inline; margin: 0;">
- 
-</p>
+
 
 <p align="center" style="display: inline; margin: 0;">
 
    <a href="mohammad.attallah1@outlook.com" target="blank">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-white?style=for-the-badge" alt="Email" />
+    <img src="https://img.shields.io/badge/mohammad.attallah1@outlook.com-Contact%20Me-white?style=for-the-badge" alt="Email" />
+    
   </a>
+  
  <a href="https://www.yourwebsite.com" target="blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" alt="Portfolio" />
   </a>
