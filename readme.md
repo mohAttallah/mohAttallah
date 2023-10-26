@@ -24,20 +24,12 @@
 </p>
 
 
-
-<p align="center" style="display: inline; margin: 0;">
-  <a href="mohammad.attallah1@outlook.com" target="blank">
-    <img src="https://img.shields.io/badge/mohammad.attallah1@outlook.com-Contact%20Me-white?style=for-the-badge" alt="Email" />
-    
-  </a>
-</p>
-
 <p align="left">
 <p align="center">
 <img src="https://awesome-github-stats.azurewebsites.net/user-stats/mohAttallah?cardType=github&theme=dark&preferLogin=true">
 </p>
 
 - 🔭 I’m currently working on [Pixle Time](https://github.com/PhotographyPlatform/back-end)
-
+- How to reach me  : mohammad.attallah1@outlook.com
 
 </p>
